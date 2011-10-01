@@ -1,0 +1,2 @@
+The base pom for all java projects from stdx.org. Defines some libraries 
+and plugins that get used in all java projects.
